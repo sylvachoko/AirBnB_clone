@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230209T221316Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=961f98cf4ecc1a7978f0f38dc8ce018391aec74122e891c0fb23e7f010cb5dd6" width="450" height="250">	
+	
 <h1> AirBnB clone - The console</h1></p>
 
 <h3> Description</h3>
